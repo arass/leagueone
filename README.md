@@ -1,2 +1,3 @@
-# leagueone
-LeagueOne
+# leagueone.io
+
+LeagueOne NFT Poker
